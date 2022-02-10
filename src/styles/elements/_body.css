@@ -1,0 +1,6 @@
+body {
+    background-color: var(--dark-blue);
+    color: var(--red);
+    font-family: var(--font-montserrat);
+    font-size: var(--base-font-size);
+}
