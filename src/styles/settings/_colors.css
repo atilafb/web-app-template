@@ -8,4 +8,12 @@
     --green: #27b667;
     --white: #ffffff;
     --black: #000000;
+
+    /* Shades of White */
+    --white-1: #f0ead6;
+
+    /* Pastel Shades */
+    --pastel-red: #ffd9d7;
+    --pastel-green: #d5f5d5;
+    --pastel-yellow: #fefed0;
   }
